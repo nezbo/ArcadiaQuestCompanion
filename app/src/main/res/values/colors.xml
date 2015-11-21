@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="arcadiaBoxBg">#C8D8CD</color>
+    <color name="arcadiaBoxBorder">#4D7280</color>
+    <color name="arcadiaBackground">#15495F</color>
+</resources>
